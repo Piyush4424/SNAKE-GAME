@@ -1,1 +1,1 @@
-# SNAKE-GAME
+Source code for snake game in python .
